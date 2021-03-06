@@ -10,3 +10,4 @@
 
 
 <p align="center"> <img src="https://github.com/DarlanNoetzold/ArvoreDeDecisoes/blob/main/ArvoreDeDecisoes01.jpg" /> <img src="https://github.com/DarlanNoetzold/ArvoreDeDecisoes/blob/main/ArvoreDeDecisoes02.jpg" /> </p> <img src="https://github.com/DarlanNoetzold/ArvoreDeDecisoes/blob/main/ArvoreDeDecisoes03.jpg" />
+<img src="https://github.com/DarlanNoetzold/ArvoreDeDecisoes/blob/main/ArvoreDeDecisoes04.jpg" />
